@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patrick Vu
 ==================================================================================================================================
 
-Data Analyst
+Data Analyst | Business Analyst
 ------------
 
-I am a detective for data as I look for trends and patterns and unveil the why. I look to integrate that with my business acumen and land an analyst position. I have listed some projects I have worked on in SQL and Python. Thanks for taking a look!
+I have listed some projects I have worked on in SQL and Python. Thanks for taking a look!
 
 * ✉️  You can contact me at [patrickvuanalyst@gmail.com](mailto:patrickvuanalyst@gmail.com)
 * 🧠  I'm learning SQL, Python, and Tableau
