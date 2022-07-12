@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Business Analyst
 ------------
 
-I have listed some projects I have worked on in SQL and Python. Thanks for taking a look!
+I have listed some projects I have worked on in SQL and Python. Please take a look around!
 
 * ✉️  You can contact me at [patrickvuanalyst@gmail.com](mailto:patrickvuanalyst@gmail.com)
 * 🧠  I'm learning SQL, Python, and Tableau
