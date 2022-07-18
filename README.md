@@ -7,7 +7,7 @@ Data Analyst | Business Analyst
 I have listed some projects I have worked on in SQL and Python. Please take a look around!
 
 * ✉️  You can contact me at [patrickvuanalyst@gmail.com](mailto:patrickvuanalyst@gmail.com)
-* 🧠  I'm learning SQL, Python, and Tableau
+* 🧠  This is my portfolio of SQL and Python projects that I work on to bolster my skills.
 * ⚡  You can check out my Tableau portfolio here! https://public.tableau.com/app/profile/patrickvutableau
 
 ### Skills
